@@ -2,10 +2,10 @@
 Yandex geocoder tool
 
 [![Code Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
-[![NPM Version](https://img.shields.io/npm/v/yandex-geocoder.svg)](https://www.npmjs.com/package/vuex-storage-sync)
-[![Dependencies](https://david-dm.org/eduardnikolenko/yandex-geocoder.svg)](https://david-dm.org/eduardnikolenko/vuex-storage-sync)
-[![Dev Dependencies](https://david-dm.org/eduardnikolenko/yandex-geocoder/dev-status.svg)](https://david-dm.org/eduardnikolenko/vuex-storage-sync/?type=dev)
-[![Peer Dependencies](https://david-dm.org/eduardnikolenko/yandex-geocoder/peer-status.svg)](https://david-dm.org/eduardnikolenko/vuex-storage-sync?type=peer)
+[![NPM Version](https://img.shields.io/npm/v/yandex-geocoder.svg)](https://www.npmjs.com/package/yandex-geocoder)
+[![Dependencies](https://david-dm.org/eduardnikolenko/yandex-geocoder.svg)](https://david-dm.org/eduardnikolenko/yandex-geocoder)
+[![Dev Dependencies](https://david-dm.org/eduardnikolenko/yandex-geocoder/dev-status.svg)](https://david-dm.org/eduardnikolenko/yandex-geocoder/?type=dev)
+[![Peer Dependencies](https://david-dm.org/eduardnikolenko/yandex-geocoder/peer-status.svg)](https://david-dm.org/eduardnikolenko/yandex-geocoder?type=peer)
 
 ## Installation
 

@@ -1,0 +1,29 @@
+{
+  "name": "yandex-geocoder",
+  "description": "Yandex geocoder tool",
+  "author": "Eduard Nikolenko <info@eduardnikolenko.com>",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "src/index.js",
+  "keywords": [
+    "geocoder"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardnikolenko/yandex-geocoder.git"
+  },
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "dependencies": {
+    "axios": "^0.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}

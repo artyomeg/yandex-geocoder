@@ -11,7 +11,7 @@ class YandexGeocoder {
 
   async resolve (query) {
     try {
-      const { data: { response = {} } = {} } = await axios(`https://geocode-maps.yandex.ru/1.x/?geocode=${encodeURIComponent(query)}&key=${this.apiKey}&kind=house&format=json&results=1`)
+      const { data: { response = {} } = {} } = await axios(`https://geocode-maps.yandex.ru/1.x/?geocode=${encodeURIComponent(query)}&apikey=${this.apiKey}&kind=house&format=json&results=1`)
 
       const firstAddress = response.GeoObjectCollection.featureMember[0].GeoObject
 
